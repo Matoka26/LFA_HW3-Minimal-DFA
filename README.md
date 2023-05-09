@@ -1,0 +1,1 @@
+# LFA_HW3-Minimal-DFA
