@@ -5,10 +5,10 @@ INPUT FORMAT:
  -all states
  -every transition of form: qi a qj, where a is from the alphabet and qi and qj are states    
 ex:  
-a b  
-q6  
-q0 q1 q2 q3 q4 q5 q6  
-q0 a q1  
+a b ->the alphabet  
+q6 ->final state(s)  
+q0 q1 q2 q3 q4 q5 q6 ->states  
+q0 a q1 ->a transition from q0 to q1 with 'a'  
 q0 b q3  
 q1 a q3  
 q1 b q2  
